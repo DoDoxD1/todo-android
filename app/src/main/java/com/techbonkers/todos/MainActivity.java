@@ -1,9 +1,11 @@
-package com.techbonkers.myapplication;
+package com.techbonkers.todos;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.webkit.WebView;
+
+import com.techbonkers.myapplication.R;
 
 public class MainActivity extends AppCompatActivity {
 

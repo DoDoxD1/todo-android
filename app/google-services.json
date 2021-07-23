@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117110139813",
+    "project_id": "todos-app-f58cd",
+    "storage_bucket": "todos-app-f58cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117110139813:android:5b288146a49ab3cbfad64c",
+        "android_client_info": {
+          "package_name": "com.techbonkers.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117110139813-acr8hm00kedg9ksafl1750ugqnn09k8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRxj3iXYamb2cTSJw8vYotBOpQUcdlXbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117110139813-acr8hm00kedg9ksafl1750ugqnn09k8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

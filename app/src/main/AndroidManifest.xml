@@ -11,7 +11,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TodosApp">
-        <activity android:name="com.techbonkers.todos.MainActivity">
+        <activity
+            android:name=".ShoppingActivity"
+            android:exported="true" />
+        <activity android:name="com.techbonkers.todos.MainActivity"
+            android:exported="false">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
